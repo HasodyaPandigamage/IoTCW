@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1029519540602",
+    "firebase_url": "https://smart-care-hub-7aa4b-default-rtdb.firebaseio.com",
+    "project_id": "smart-care-hub-7aa4b",
+    "storage_bucket": "smart-care-hub-7aa4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029519540602:android:34cd181fabf6235be696c3",
+        "android_client_info": {
+          "package_name": "com.example.smart_care_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0fGd0is5vKhNU9E1oihwcK2n3ovWYbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
